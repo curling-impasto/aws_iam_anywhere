@@ -1,0 +1,6 @@
+.terraform
+.terraform*
+*.tfstate
+.vscode
+*.infracost
+.DS_Store
